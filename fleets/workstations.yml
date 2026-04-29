@@ -188,7 +188,7 @@ software:
       self_service: true
       setup_experience: true
       categories:
-        - Communications
+        - Communication
 
     # Windows custom packages
     # …
